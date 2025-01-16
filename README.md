@@ -12,3 +12,8 @@ mockSponge is a simple command-line application that takes in a string and conve
 Input:
 ```bash
 mockSponge "This is an example"
+```
+
+Output:
+```bash
+mockSponge "tHiS iS aN eXaMpLe"
